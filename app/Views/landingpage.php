@@ -212,6 +212,7 @@
             <p>Findy Digital Kreatif merupakan sebuah badan usaha Persero Perseorangan yang telah resmi terdaftar pada Kementrian Hukum dan Hak Asasi Manusia Republik Indonesia dengan nomor sertifikat <b>AHU-027806.AH.01.30.Tahun 2023.</b></p>
             <a href="/login">Log In</a>
             <a href="/web">Rental Buku</a>
+            <a href="/matakuliah">Form Validasi</a>
         </div>
         <div class="image">
             <img src="/assets/gambar1.png" alt="Cek">

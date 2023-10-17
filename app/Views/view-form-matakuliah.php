@@ -50,6 +50,7 @@
                 <tr>
                     <td colspan="3" align="center">
                         <input type="submit" value="Submit">
+                        <button type="button" onclick="location.href='/'">Kembali</button>
                     </td>
                 </tr>
             </table>
